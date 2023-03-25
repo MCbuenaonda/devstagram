@@ -3,8 +3,9 @@
 namespace App\View\Components;
 
 use Closure;
-use Illuminate\Contracts\View\View;
+use App\Models\Admin;
 use Illuminate\View\Component;
+use Illuminate\Contracts\View\View;
 
 class ListarPost extends Component
 {
